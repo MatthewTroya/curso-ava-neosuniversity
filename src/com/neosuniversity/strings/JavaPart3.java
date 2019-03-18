@@ -1,5 +1,8 @@
 package com.neosuniversity.strings;
 
+/**
+* documentation
+/*
 public class JavaPart3 {
 
     public static void main(String[] args) {
